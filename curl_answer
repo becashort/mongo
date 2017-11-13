@@ -1,0 +1,1 @@
+[ { "_id" : { "$oid" : "5a097cdc734d1d68d42e7cb4"} , "laptop" : { "type" : "Mac" , "model" : "Macbook Pro" , "colour" : "White"}} ]
